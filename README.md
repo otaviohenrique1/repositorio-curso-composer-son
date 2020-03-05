@@ -9,3 +9,4 @@ $log->pushHandler(new Monolog\Handler\StreamHandler('path/to/your.log', Monolog\
 $log->warning((new Hello)->say('Otavio'));
 
 ```
+# Exercicio do curso de Composer da School of Net
